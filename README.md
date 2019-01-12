@@ -1,5 +1,7 @@
 # WTF Dial
 
+[![GoDoc](https://godoc.org/github.com/jtdoepke/wtfdial?status.svg)](https://godoc.org/github.com/jtdoepke/wtfdial)
+
 https://medium.com/wtf-dial/
 
 > WTF is a WTF Dial? Essentially it is a real-time API for allowing members of a team to set their current “WTF level” and have it aggregated to a dashboard. It provides insight into the team’s health and allows users to easily provide their input.
